@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body style="text-align:center;">
+
+<h1 style="background-color:hsl(300, 76%, 72%);"> Think pink! </h1>
+
+<h1 style="background-color:hsl(300, 76%, 72%, 0.5);">Think pink!</h1>
+
+</body>
+</html>
