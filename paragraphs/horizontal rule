@@ -4,15 +4,15 @@
 
 <h1>akt pierwszy</h1>
 <p>dzień dobry!</p>
-<hr>
+<hr size="20" noshade>
 
 <h2>akt drugi</h2>
 <p>czy chcesz sie czegoś napić?</p>
-<hr>
+<hr size="30" noshade>
 
 <h3>Ostatni akt</h3>
 <p>Poproszę kawkę</p>
-<hr>
+<hr size="40" noshade>
 
 </body>
 </html>
