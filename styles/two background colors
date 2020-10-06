@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<hr>
+<hr>
+<h3 style="background-color:#ffff99;">This is a heading</h3>
+<hr>
+<p style="background-color:#009999;">This is a paragraph.</p>
+<hr>
+<hr>
+
+</body>
+</html>
