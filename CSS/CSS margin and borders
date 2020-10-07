@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p1 {
+border: 10px solid rgb(189, 183, 107); /* DarkKhaki */ 
+padding: 30px;
+margin 30px;
+}
+
+p2 {
+border: 10px solid rgb(233, 150, 122); /* DarkSalmon */
+padding: 30px;
+margin 30px;
+}
+
+p3 {
+border: 10px solid 
+rgb(255, 140, 0); /* DarkOrange */
+padding: 30px;
+margin 30px;
+}
+
+</head>
+</style>
+<body>
+
+<h1> I raz </h1>
+<br>
+<br>
+<p1> I dwa </p1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p2> I trzy </p2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p3> I cztery </p3>
+
+
+</body>
+</html>
