@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: AliceBlue;}
+h1 {color: Salmon;}
+p {color: Plum;}
+</head>
+</style>
+<body>
+
+<h1>dzień dobry!</h1>
+<p>dzisiaj będzie super dzień!</p>
+<img src="https://images.unsplash.com/photo-1584389839701-ddcd904f0546?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80" alt="uśmiech" width="400" height="340">
+
+</body>
+</html>
