@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<style>
+a:link, a:visited {
+background-color: #cc66ff;
+color: white;
+padding: 15px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block; 
+}
+
+a:hover, a:active {
+background-color: #cc99ff;
+}
+
+</head>
+</style>
+<body>
+
+<h2>Kto dostał Nagrodę Nobla z fizyki w 2020 roku?</h2>
+
+<a href="https://www.onet.pl/informacje/onetwiadomosci/nobel-2020-przyznano-nagrode-nobla-z-fizyki-kto-zwyciezyl/9l5x2mp,79cfc278" target="_blank">Zobacz</a>
+
+</body>
+</html>
