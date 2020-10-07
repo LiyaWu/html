@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+a:link {
+color: pink;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:visited {
+color: green;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:hover {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+
+a:active {
+color: plum;
+background-color: transparent;
+text-decoration: underline;
+}
+
+</head>
+</style>
+<body>
+
+<h2>Chińska wyszukiwarka Baidu</h2>
+
+<a href="https://www.baidu.com/" target="_blank">Kliknij tutaj</a>
+
+</body>
+</html>
