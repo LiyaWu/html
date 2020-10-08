@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Witaj!</title>
+<meta name="description" content="Strona z szczęśliwym pieskiem!" />
+<meta name="keywords" content="piesek, radość, szczęście" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<body>
+
+<h2>Szczęśliwy piesek!</h2>
+
+<p><strong>Czy jesteś dziś tak szczęśliwy jak oni?</strong></p>
+<div>
+<p>
+<img src="https://images.unsplash.com/photo-1534361960057-19889db9621e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="piesek w parku" title="HauHau!" style="float:left;width:150px;height:110px;" >Szczęśliwe pieski można znaleźć w parku.</p>
+<p>Czy widziałeś kiedyś takiego pieska?</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p>
+<img src="https://images.unsplash.com/photo-1506499422601-ecc792cf898e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="piesek w domku" title="NiuchNiuuch!" style="float:right;width:100px;height:150px;">Szczęśliwe pieski są też w domku </p>
+<p>Czy widziałeś kiedyś takiego pieska?</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>
+<img src="https://images.unsplash.com/photo-1550952080-c2c26881b9d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80" alt="piesek nad morzem" title="Haaaauuuu!" style="float:left;width:110px;height:150px;">Niektóre szczęśliwe pieski kochają morze!</p>
+<p>Czy widziałeś kiedyś takiego pieska?</p>
+</body>
+</html>
