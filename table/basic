@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+ border: 1px solid plum;
+}
+td, th {
+padding: 15px;
+}
+th {
+ text-align: left;
+ }
+table {
+border-spacing: 10px; 
+}
+</style>
+</head>
+<body>
+
+<h2>Kto ma ile ciastek?</h2>
+
+<table style="width:100%;">
+<tr>
+<th>Imię</th>
+<th>Liczba ciastek</th>
+<tr>
+<td>Małgosia</td>
+<td>20 sztuk</td>
+<tr>
+<td>Jaś</td>
+<td>23 sztuki</td>
+</table>
+
+
+
+</body>
+</html>
