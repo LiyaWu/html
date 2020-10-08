@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h1> Kwiaty </h1>
+
+<p> Zmień rozmiar okna przeglądarki, aby załadować inne obrazy </p>
+
+<picture>
+	<source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+    <source media="(min-width:450px)" srcset="img_white_flower.jpg">
+    <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
+
+</body>
+</html>
