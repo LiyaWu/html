@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+</head>
+<body>
+
+<h2>Cell that spans two rows</h2>
+<p>To make a cell span more than one row, use the rowspan attribute.</p>
+
+<table style="width:100%;">
+<tr>
+<th>
+Nazwa firmy:
+</th>
+<td>
+Gwiazdki SP. Z O.O.
+</td>
+</tr>
+<tr>
+<th rowspan="2">
+Numery telefonów:
+</th>
+<td>
+545 354 357
+</td>
+<tr>
+<td>
+535 867 235
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>
